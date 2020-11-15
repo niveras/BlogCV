@@ -5,7 +5,7 @@
 {{ legend }}
 
 {% endif %}
-{% page.title %}
+{% title %}
 {{ data }}
 
 {% endblock body %}
