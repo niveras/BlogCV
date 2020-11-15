@@ -1,17 +1,1 @@
 theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-    jekyll-coffeescript
-    jekyll-default-layout
-    jekyll-github-metadata
-    jekyll-optional-front-matter
-    jekyll-readme-index
-    jekyll-titles-from-headings
-    jekyll-relative-links
-
