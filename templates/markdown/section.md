@@ -5,7 +5,7 @@
 {{ legend }}
 
 {% endif %}
-{% body block %}
+{% block body %}
 {{ data }}
 
 {% endblock body %}
