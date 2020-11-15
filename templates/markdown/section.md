@@ -8,4 +8,4 @@
 {{% block body %}}
 {{ data }}
 
-{% endblock body %}
+{{% endblock body %}}
