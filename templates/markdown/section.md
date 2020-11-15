@@ -4,3 +4,4 @@
 {% if legend %}
 {{ legend }}
 
+{% endif %}
