@@ -9,4 +9,3 @@
 {{ data }}
 
 {% endblock body %}
-
